@@ -1,1 +1,1 @@
-Built a Live Search using the Wikipedia API using JSON and jQuery
+Built a Live Search using the Wikipedia API using JSON and jQuery.
